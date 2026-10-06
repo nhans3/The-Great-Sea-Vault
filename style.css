@@ -1,0 +1,39 @@
+
+html {
+    background-color: rgb(66, 184, 148);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuoqjScgPUl8YIVhmu7qPYkCxaVCUBkirVkEDsa0s52Q&s=10);
+    background-size: fixed;
+  }
+  
+  body {
+    background-color: #ffffff;
+      font-family: 'Courier New', Courier, monospace;
+      width: 500px;
+      margin: 25px auto;
+      margin-top: 30px;
+      padding: 20px 100px;
+      border-radius: 25px;
+    }
+
+
+h1 {
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(56, 20, 156);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#myst-box {
+    color: #7F2982;
+}
+
+button {
+  margin: 5px;
+  padding: 5px;
+  color: rgb(255, 241, 112);
+  background-color: rgb(23, 178, 184);
+  border-color: rgb(82, 48, 114);
+  border-radius: 50px;
+}
